@@ -1,1 +1,1 @@
-Pratik amaçlı yaptığım kart projem
+Pratik amaçlı yaptığım kart projem, netlfy ortamında host testleri yapılıyor..
